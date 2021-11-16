@@ -1,0 +1,9 @@
+.donation__currency {
+    padding: 0;
+    margin: 24px 30px 24px auto;
+    border: none;
+    background: none;
+    font-size: 18px;
+    line-height: 21px;
+    cursor: pointer;
+}

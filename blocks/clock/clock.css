@@ -1,0 +1,12 @@
+.clock {
+    background: url("../../images/time/gradient.svg") no-repeat bottom;
+    max-width: 209px;
+    min-width: 209px;
+    border: 1px solid #636779;
+    border-radius: 30px;
+    margin-right: 22px;
+}
+
+.clock:last-child {
+    margin-right: 0;
+}

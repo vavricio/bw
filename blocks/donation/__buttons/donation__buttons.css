@@ -1,0 +1,7 @@
+.donation__buttons {
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    max-width: 375px;
+    min-width: 375px;
+}

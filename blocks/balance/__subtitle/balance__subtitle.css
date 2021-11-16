@@ -1,0 +1,12 @@
+.balance__subtitle {
+    margin: 0;
+    font-size: 15px;
+    line-height: 18px;
+    font-style: normal;
+    font-weight: normal;
+    color: #3183FF;
+}
+
+.balance__subtitle::after {
+    content: "\0020 TRX";
+}

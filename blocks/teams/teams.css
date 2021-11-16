@@ -1,0 +1,9 @@
+.teams {
+    display: flex;
+    align-items: center;
+    margin: 0 auto;
+    max-width: 1440px;
+    max-height: 1302px;
+    min-height: 1302px;
+    background: url("../../images/teams/background.svg") no-repeat center;
+}

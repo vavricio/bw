@@ -1,0 +1,8 @@
+.card {
+    z-index: 2;
+    padding-top: 16px;
+    max-width: 449px;
+    min-width: 449px;
+    max-height: 396px;
+    border-radius: 20px;
+}

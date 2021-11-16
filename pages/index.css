@@ -1,0 +1,47 @@
+@import url("../vendor/normalize.css");
+@import url("../vendor/fonts/fonts.css");
+@import url("../blocks/page/page.css");
+@import url("../blocks/balance/balance.css");
+@import url("../blocks/balance/__title/balance__title.css");
+@import url("../blocks/balance/__subtitle/balance__subtitle.css");
+@import url("../blocks/button/button.css");
+@import url("../blocks/header/header.css");
+@import url("../blocks/header/__balance/header__balance.css");
+@import url("../blocks/header/__button/header__button.css");
+@import url("../blocks/header/__logo/header__logo.css");
+@import url("../blocks/header/__navigation/header__navigation.css");
+@import url("../blocks/navigation/navigation.css");
+@import url("../blocks/navigation/__elements/navigation__elements.css");
+@import url("../blocks/navigation/__element/navigation__element.css");
+@import url("../blocks/navigation/__link/navigation__link.css");
+@import url("../blocks/navigation/__link/navigation__link.css");
+@import url("../blocks/time/time.css");
+@import url("../blocks/time/__title/time__title.css");
+@import url("../blocks/time/__container/time__container.css");
+@import url("../blocks/clock/clock.css");
+@import url("../blocks/clock/__title/clock__title.css");
+@import url("../blocks/clock/__subtitle/clock__subtitle.css");
+@import url("../blocks/teams/teams.css");
+@import url("../blocks/teams/__container/teams__container.css");
+@import url("../blocks/card/card.css");
+@import url("../blocks/card/_team/card_team_A.css");
+@import url("../blocks/card/__title/card__title.css");
+@import url("../blocks/card/__subtitle/card__subtitle.css");
+@import url("../blocks/donation/donation.css");
+@import url("../blocks/donation/__button/donation__button.css");
+@import url("../blocks/donation/__buttons/donation__buttons.css");
+@import url("../blocks/donation/__confirm/donation__confirm.css");
+@import url("../blocks/donation/__currency/donation__currency.css");
+@import url("../blocks/donation/__field/donation__field.css");
+@import url("../blocks/donation/__input/donation__input.css");
+@import url("../blocks/donation/__confirm/_team/donation__confirm_team_A.css");
+@import url("../blocks/donation/__currency/_team/donation__currency_team_A.css");
+@import url("../blocks/donation/__currency/_team/donation__currency_team_B.css");
+@import url("../blocks/diagram/diagram.css");
+@import url("../blocks/card/_team/card_team_B.css");
+@import url("../blocks/donation/__confirm/_team/donation__confirm_team_B.css");
+@import url("../blocks/pig/pig.css");
+@import url("../blocks/pig/__image/pig__image.css");
+
+
+

@@ -1,0 +1,13 @@
+.donation {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding-top: 35px;
+    min-height: 248px;
+    background: #000000;
+    opacity: 0.88;
+    border-radius: 20px;
+    font-family: Roboto, Arial, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+}

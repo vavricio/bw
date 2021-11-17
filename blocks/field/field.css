@@ -1,0 +1,10 @@
+.field {
+    box-sizing: border-box;
+    max-height: 70px;
+    min-height: 70px;
+    background: rgba(196, 196, 196, 0.05);
+    border-radius: 10px;
+    border: 1px solid rgba(225, 225, 225, 0.47);
+    display: flex;
+    align-items: center;
+}

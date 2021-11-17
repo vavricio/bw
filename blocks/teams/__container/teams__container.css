@@ -1,0 +1,10 @@
+.teams__container {
+    margin: -200px auto 0;
+    max-width: 1198px;
+    min-width: 1198px;
+    max-height: 797px;
+    display: flex;
+    justify-content: space-between;
+    align-items: end;
+    position: relative;
+}

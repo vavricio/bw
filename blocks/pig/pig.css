@@ -1,0 +1,7 @@
+.pig {
+    /*max-width: 449px;*/
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    position: relative;
+}

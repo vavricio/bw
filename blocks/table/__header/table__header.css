@@ -1,0 +1,9 @@
+.table__header {
+    padding-bottom: 46px;
+    width: 338px;
+    text-align: left;
+    font-family: Roboto, Arial, sans-serif;
+    font-size: 18px;
+    line-height: 21px;
+    color: #587597;
+}

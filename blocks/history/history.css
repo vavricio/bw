@@ -1,0 +1,10 @@
+.history {
+    margin: 88px auto 200px;
+    max-width: 1200px;
+    background: #222535;
+    opacity: 0.88;
+    border-radius: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

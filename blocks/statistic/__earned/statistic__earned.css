@@ -1,0 +1,6 @@
+.statistic__earned {
+    max-width: 193px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}

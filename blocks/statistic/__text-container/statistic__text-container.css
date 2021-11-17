@@ -1,0 +1,6 @@
+.statistic__text-container {
+    max-width: 306px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}

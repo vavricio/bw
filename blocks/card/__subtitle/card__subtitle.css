@@ -1,0 +1,12 @@
+.card__subtitle {
+    margin: 0 auto 21px;
+    font-size: 24px;
+    line-height: 23px;
+    text-align: center;
+    color: #FFFFFF;
+    opacity: 0.5;
+}
+
+.card__subtitle:after {
+    content: "\0020 TRX";
+}

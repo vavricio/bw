@@ -1,0 +1,5 @@
+.header__balance {
+    justify-content: space-between;
+    min-width: 138px;
+    margin: auto 0;
+}

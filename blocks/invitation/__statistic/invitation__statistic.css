@@ -1,0 +1,5 @@
+.invitation__statistic {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

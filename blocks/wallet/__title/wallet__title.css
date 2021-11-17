@@ -1,0 +1,10 @@
+.wallet__title {
+    margin: 0;
+    max-width: 507px;
+    font-family: KyivType Sans, Arial, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 50px;
+    line-height: 60px;
+    color: #FFFFFF;
+}

@@ -1,0 +1,7 @@
+.donation__button {
+    width: 89px;
+    height: 48px;
+    background: rgba(196, 196, 196, 0.05);
+    border-radius: 10px;
+    border: 1px solid rgba(225, 225, 225, 0.47);
+}

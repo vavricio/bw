@@ -1,0 +1,6 @@
+.diagram {
+    width: 223px;
+    height: 455px;
+    background: url("../../images/teams/Diagram.svg") no-repeat center;
+    filter: drop-shadow(0 0 22px rgba(255, 98, 49, 0.5));
+}

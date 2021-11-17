@@ -1,0 +1,14 @@
+.invitation__text {
+    margin: 16px 0 0;
+    max-width: 738px;
+    font-family: Roboto, Arial, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    color: #587597;
+}
+
+.invitation__text:last-of-type {
+    margin: 45px 0 0;
+}

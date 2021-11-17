@@ -1,0 +1,9 @@
+.card__title {
+    font-family: KyivType Sans, Arial, sans-serif;
+    margin: 0 auto 11px;
+    font-size: 48px;
+    line-height: 58px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}

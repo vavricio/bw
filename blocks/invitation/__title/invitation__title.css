@@ -1,0 +1,10 @@
+.invitation__title {
+    margin: 0;
+    max-width: 435px;
+    font-family: KyivType Sans, Arial, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 43px;
+    color: #FF6231;
+}

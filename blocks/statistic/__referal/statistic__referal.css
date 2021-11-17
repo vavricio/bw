@@ -1,0 +1,8 @@
+.statistic__referal {
+    margin: 0;
+    text-align: left;
+}
+
+.statistic__referal:last-of-type {
+    margin-top: 26px;
+}

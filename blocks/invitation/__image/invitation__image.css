@@ -1,0 +1,4 @@
+.invitation__image {
+    margin: 0 24px;
+    filter: drop-shadow(0 0 111px rgba(238, 184, 137, 0.3));
+}

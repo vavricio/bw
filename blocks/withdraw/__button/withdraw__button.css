@@ -1,0 +1,13 @@
+.withdraw__button {
+    max-width: 238px;
+    min-width: 238px;
+    background: #3183FF;
+    box-shadow: 0 8px 30px rgba(49, 131, 255, 0.37);
+    border-radius: 10px;
+    font-family: Roboto, Arial, sans-serif;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+    letter-spacing: 0.05em;
+    color: #FFFFFF;
+}

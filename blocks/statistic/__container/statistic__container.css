@@ -1,0 +1,7 @@
+.statistic__container {
+    margin: 64px 0;
+    display: flex;
+    justify-content: space-between;
+    max-width: 990px;
+    min-width: 990px;
+}

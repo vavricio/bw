@@ -1,0 +1,8 @@
+.withdraw {
+    margin: 0 auto;
+    display: flex;
+    max-width: 1200px;
+    background: #252737;
+    opacity: 0.88;
+    border-radius: 30px;
+}

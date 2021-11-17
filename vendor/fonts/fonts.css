@@ -5,3 +5,20 @@
     src: url('./Roboto/Roboto-Regular.woff') format('woff'),
         url('./Roboto/Roboto-Regular.woff2') format('woff2');
 }
+
+
+@font-face {
+    font-family: 'Mariupol';
+    font-style: normal;
+    font-weight: 400;
+    src: url('./Mariupol/Mariupol-Regular.woff') format('woff'),
+    url('./Mariupol/Mariupol-Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'KyivType Sans';
+    font-style: normal;
+    font-weight: 400;
+    src: url('./KyivType Sans/KyivTypeSans-Medium2.woff') format('woff'),
+    url('./KyivType Sans/KyivTypeSans-Medium2.woff2') format('woff2');
+}

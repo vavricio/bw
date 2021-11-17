@@ -1,0 +1,12 @@
+.table__row {
+    box-sizing: border-box;
+    border-bottom: 1px solid #2D3845;;
+}
+
+.table__row:last-of-type {
+    border: none;
+}
+
+.table__row:first-of-type {
+    border: none;
+}

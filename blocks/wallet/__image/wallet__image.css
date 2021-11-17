@@ -1,0 +1,5 @@
+.wallet__image {
+    max-width: 553px;
+    max-height: 553px;
+    filter: drop-shadow(0 0 222px rgba(131, 99, 70, 0.7));
+}

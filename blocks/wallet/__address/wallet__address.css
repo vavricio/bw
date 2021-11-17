@@ -1,0 +1,12 @@
+.wallet__address {
+    max-width: 408px;
+    font-family: Roboto, Arial,sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    color: #9BC1F9;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+}
